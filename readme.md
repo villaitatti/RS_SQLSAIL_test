@@ -8,7 +8,7 @@ This RS application is a test application that can be used to test SQLSail.
 
 Read the [the official documentation](https://docs.google.com/document/d/1lz6vcVqVXbYsJLewqhooCYN23HBlvl090PwKtqIPqDQ) for the pre-requirements.
 
-Move this repository in `runtime-data/apps' folder in Researchspace running `sail` branch.
+Move this repository in `runtime-data/apps` folder in Researchspace running `sail` branch.
 
 ## Usage
 
